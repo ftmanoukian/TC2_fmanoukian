@@ -1,6 +1,6 @@
-f [Hz],Amplitud Entrada[Vrms],Amplitud Salida [Vrms],Ganancia [dB],DeltaT [ms],Fase [°],,
+f [Hz],Amplitud Entrada[Vrms],Amplitud Salida [Vrms],Ganancia [dB],DeltaT [ms],Fase [°],Cambios,Escala
 400,"3,47","0,0940","-31,34","1,85000","266,40",Escala canal 2,100mV
-500,"3,47","0,116","-29,52","1,49000","268,20",Escala canal 1,2V
+500,"3,47","0,116","-29,52","1,49000","268,20",,
 600,"3,54","0,137","-28,25","1,23000","265,68",,
 700,"3,54","0,162","-26,79","1,06000","267,12",,
 800,"3,48","0,186","-25,44","0,92000","264,96",,
